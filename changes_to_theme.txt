@@ -1,0 +1,1 @@
+Modified base.html to add Contact to side bar
